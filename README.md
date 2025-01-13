@@ -1,4 +1,4 @@
----Click2Crop Readme---
+# Click2Crop Readme
 
 Napari program that allows the user to click on an image and crop it with the click-position being the center of the newly cropped image. The size of the crop around the center-point can be specified on the size text-box. 
 
@@ -6,7 +6,7 @@ To crop an image, or a group of images, load them onto napari first. Then initia
 
 There is a test image in the /TestData directory.
 
-Required Python packages: 
+## Required Python packages: 
 numpy
 napari
 h5py
